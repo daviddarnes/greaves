@@ -1,13 +1,7 @@
-## Anchor CMS Themes
+# Greaves
 
-This Repo is solely for the development of Themes for the Open-Source Blogging CMS: Anchor.
+A responsive theme for the super simple Anchor CMS, created by [Russell Jones](http://heyfennec.co.uk).
 
-This repo contains the default and boilerplate themes, this should provide you with enough aid to create your own themes.
+## License
 
-Please use them as a template, but make sure that you duplicate them and do not overwrite them.
-
-If you unsure about how to do something, [check out the docs!](http://anchorcms.com/docs)
-
-You can also view a range of themes at [Anchor Themes](http://anchorthemes.com)
-
-Happy theming!
+This software is released under the  [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
