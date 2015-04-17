@@ -4,4 +4,4 @@ A responsive theme for the super simple Anchor CMS, created by [Russell Jones](h
 
 ## License
 
-This software is released under the  [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
+This software is released under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
